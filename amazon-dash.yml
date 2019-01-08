@@ -4,4 +4,4 @@ devices:
   00:00:00:00:00:00:
     name: meow
     user: username
-    cmd: ruby /home/username/Desktop/nyaaan/meow.rb
+    cmd: ruby /home/username/Desktop/nyaaan/.rb
