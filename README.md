@@ -1,16 +1,13 @@
-# NyaaanDashButton
+# MastodonDestroyButton
 ## 概要
-AmazonDashボタンでMastodonへ「にゃーん」って呟くもの
-
-記事
-[AmazonDashボタンを使ってMastodonへにゃーんって呟いてみる](http://gamelinks007.hatenablog.com/entry/2018/07/03/225223)
+AmazonDashボタンでMastodonインスタンスを爆破するもの
 
 ## 使い方
 
 まず、clone
 
 ```
-git clone https://github.com/S-H-GAMELINKS/NyaaanDashButton.git nyaaan 
+git clone https://github.com/S-H-GAMELINKS/MastodonDestroyButton.git 
 ```
 
 clone したディレクトリまで移動後、以下のshellを実行
